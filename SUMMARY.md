@@ -9,5 +9,5 @@
     - [仓库](docker/basic_concept/repository.md)
 - [常用命令](command/command.md)
 - [dockerfile 编写及其编排工具介绍](dockerfile/dockerfile.md)
-- [LoraServer搭建](lora/LoraServerInstall.md)
+- [LoraServer搭建讲解](lora/LoraServerInstall.md)
 
