@@ -8,5 +8,5 @@
     - [容器](docker/basic_concept/container.md)
     - [仓库](docker/basic_concept/repository.md)
 - [dockerfile 编写及其编排工具介绍](docker/dockerfile/dockerfile.md)
-- [LoraServer搭建](lora/dockerfile/dockerfile.md)
+- [LoraServer搭建](lora/LoraServerInstall.md)
 
