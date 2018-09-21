@@ -20,7 +20,7 @@ git clone https://github.com/brocaar/loraserver-docker.git
 
 cd loraserver-docker
 
-cp -r configuration/lora-app-server /etc/
+//cp -r configuration/lora-app-server /etc/
 
 docker-compose up
 ```
