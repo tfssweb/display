@@ -9,5 +9,6 @@
     - [仓库](docker/basic_concept/repository.md)
 - [常用命令](command/command.md)
 - [dockerfile 编写及其编排工具介绍](dockerfile/dockerfile.md)
+- [(演示)拉取/构建镜像](images/images.md)
 - [(演示)LoraServer搭建讲解](lora/LoraServerInstall.md)
 
