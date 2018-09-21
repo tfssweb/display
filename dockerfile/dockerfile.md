@@ -5,14 +5,7 @@
 1. CentOS7与Ubuntu下安装Docker，配置加速器
 2. 常见Dockerfile命令讲解
 3. docker-compo安装与常见命令讲解
-4. 根据项目如何使用Docker部署应用
 
-   1. Swarm集群下发布基于LNMP的WordPress应用发布
-   2. NodeJS应用发布
-   3. Flask应用发布
-   4. 基于Tomcat定制封装Jenkins镜像
-5. 搭建私有仓库
-6. 每次代码写好了都要自己构建觉得麻烦怎么办？
 
 
 ## CentOS7与Ubuntu下安装Docker
