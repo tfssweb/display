@@ -259,6 +259,23 @@ eg:
 WORKDIR /usr/local/zookeeper-${ZOOKEEPER_VERSION}
 ```
 
+## Dockerfile
+
+```
+FROM mysql:5.7
+MAINTAINER "tfss" <1255791430@qq.com>
+ENV TZ=Asia/Shanghai
+ENV MYSQL_ROOT_PASSWORD=root
+
+# 将sql文件放到此目录，可以自动执行
+COPY ./db_equipment.sql /docker-entrypoint-initdb.d/
+
+# 将配置文件放到此目录，进行配置
+COPY ./utf8.cnf /etc/mysql/conf.d/
+
+```
+
+
 以上为常用的Dockerfile指令，详细文档请参考官方文档：https://docs.docker.com/engine/reference/builder/
 
 
