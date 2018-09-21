@@ -4,6 +4,7 @@
 
 ## 环境准备
 
+- Ubuntu/Centos
 - Docker
 - docker-compose
 
